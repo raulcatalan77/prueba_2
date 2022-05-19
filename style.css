@@ -1,0 +1,31 @@
+.titulo{
+display: flex;
+justify-content: center;
+padding: 20px;
+}
+.imgPortada{
+    height: 300px;
+    width: 100%;
+}
+img{
+    height:500px
+}
+
+footer{
+    height:auto;
+    display:flex;
+    align-items: center;
+   
+    
+}
+.f-carusel{
+    color: beige;
+}
+.video{
+    height: 20px;
+    width: 20px;
+    margin: 3px;
+}
+.info p {
+    color: beige;
+}
